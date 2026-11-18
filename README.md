@@ -1,16 +1,17 @@
-# Nerfies
+# ANIMA Research Group
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+ANIMA (Adaptive Neuro-Inspired Models for Autonomy) is a research group at CAIR, VinUniversity. This repository contains the static source for https://vinuni-anima.github.io/.
 
-If you find Nerfies useful for your work please cite:
-```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
-}
+## Local development
+
+Run this command from the repository root and open http://127.0.0.1:8000/.
+
+```sh
+python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Edit `index.html` to update the project overview, research directions, and publications. Edit `team.html` for team members and `opportunities.html` for openings. Edit `static/css/index.css` for site-specific styles. Bulma is bundled locally. There are no build steps.
+
+## Website license
+
+Adapted from the [Nerfies website template](https://github.com/nerfies/nerfies.github.io) under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
