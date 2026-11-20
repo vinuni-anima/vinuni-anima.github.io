@@ -184,3 +184,18 @@ a {
   margin: 0 0 0.35rem;
   font-size: 1rem;
 }
+
+.content .publication-entries {
+  list-style: none;
+  margin: 0 0 1.5rem;
+}
+
+.publication-entries li {
+  border-top: 1px solid #dce4ef;
+  padding: 1rem 0;
+}
+
+.content .publication-entries h4,
+.content .publication-entries p {
+  margin: 0 0 0.35rem;
+}

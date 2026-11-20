@@ -7,6 +7,7 @@
   <title>ANIMA Research Group | CAIR, VinUniversity</title>
   <link rel="stylesheet" href="./static/css/bulma.min.css">
   <link rel="stylesheet" href="./static/css/index.css">
+  <script type="module" src="./static/js/publications.js"></script>
 </head>
 <body>
   <header class="site-header">
@@ -81,7 +82,9 @@
     <section id="publications" class="section">
       <div class="container content">
         <h2>Publications</h2>
-        <p>Publication details will be added here.</p>
+        <p id="publications-status" role="status">Loading publications…</p>
+        <div id="publication-list"></div>
+        <noscript><p>Enable JavaScript to view the publication list.</p></noscript>
       </div>
     </section>
   </main>

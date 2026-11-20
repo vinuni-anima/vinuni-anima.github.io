@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Diagnosing Held-Out Task–Embodiment Generalization with Latent Support in Vision–Language–Action Policies",
+    "authors": "Anh Nguyen Thi, Ta Khanh Ly, Minh-Loi Nguyen, Nghiem Tuong Diep, Duy Minh Ho Nguyen, Dung D. Le",
+    "year": 2026,
+    "status": "Accepted",
+    "venue": "CoRL 2026 Workshop on Compositional Generalization for Real-World Robot Learning",
+    "paperUrl": null
+  },
+  {
+    "title": "MIRA: Meaningful Interaction Region Allocation for Budgeted Online Robot Reinforcement Learning",
+    "authors": "Thanh Pham, Duy Dung Le",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": null
+  },
+  {
+    "title": "PACE-Bench: Physical-interaction Attribution and Capability Evaluation for Vision-Language-Action Policies",
+    "authors": "Ta Khanh Ly, D.Dung Le",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": null
+  },
+  {
+    "title": "Successful but Unsafe: An Analytical Benchmark for Revealing Collisions in Vision-and-Language Navigation",
+    "authors": "Hieu D. Pham, Quoc-An LUONG, Dung D. Le",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": null
+  },
+  {
+    "title": "RoboGaze: Evaluating Robot World Models via Structured Vision-Language Analysis",
+    "authors": "Minh-Loi Nguyen, Nghiem T. Diep, Hung K. Nguyen, Minh Le, Doanh L. Thien, Tuan A. Tran, Hoang H. Tran, Dung D. Le, Vu N. Duong, Khoa D. Doan, Ngan Le, Daniel Sonntag, An T. Le, Vien Anh Ngo, Duy M. H. Nguyen†, Tran V. Nhiem†",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": "https://arxiv.org/abs/2606.28385"
+  },
+  {
+    "title": "Learning Morphology-Aware Expert Sharing and Specialization for Cross-Embodiment Offline Reinforcement Learning",
+    "authors": "Le-Tuan Nguyen, Duong Nguyen, Hanh Nguyen, Kok-Seng Wong, Dung D. Le",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": null
+  },
+  {
+    "title": "MotionGO: Hierarchical Motion Imagination of 3D Gaussian Objects from Action-Free Videos for Policy Learning",
+    "authors": "Le-Tuan Nguyen, Duong Nguyen, Duc Minh Nguyen, Hung Thinh Ho, Vien Anh Ngo, Daniel Sonntag, Ngan Le, Duy Minh Ho Nguyen, Dung D. Le",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": null
+  },
+  {
+    "title": "MoSS: Mixture of Specialized Skills for Subset-Shared World Modeling in Offline Reinforcement Learning",
+    "authors": "Duong Nguyen, Le-Tuan Nguyen, Nguyen Manh Duc, Ngoc Minh Luu, Kok-Seng Wong, Dung D. Le",
+    "year": 2026,
+    "status": "Under review",
+    "paperUrl": null
+  }
+]
