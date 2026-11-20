@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Asst. Prof. Dung D. Le",
+        "group": "Principal Investigators",
+        "titleAffiliation": "Project PI, VinUni",
+        "profileUrl": "https://andrew-dungle.github.io/",
+        "photo": "./static/images/team/dung-d-le.png"
+    },
+    {
+        "name": "Luong Quoc An",
+        "group": "Researchers",
+        "titleAffiliation": "PhD Student @ VinUni",
+        "profileUrl": "https://scholar.google.com/citations?user=xTe9IjoAAAAJ&hl=vi",
+        "photo": "./static/images/team/luong-quoc-an.jpg"
+    },
+    {
+        "name": "Nguyen Le Tuan",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://scholar.google.com/citations?user=AfN-KFoAAAAJ&hl=vi",
+        "photo": "./static/images/team/nguyen-le-tuan.jpg"
+    },
+    {
+        "name": "Pham Van Thanh",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://www.linkedin.com/in/thanhpv1024/",
+        "photo": "./static/images/team/pham-van-thanh.jpg"
+    },
+    {
+        "name": "Nguyen Thi Anh",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://scholar.google.com/citations?hl=vi&user=bHV8YrMAAAAJ&view_op=list_works",
+        "photo": "./static/images/team/nguyen-thi-anh.jpg"
+    },
+    {
+        "name": "Nguyen Cuong Nhat",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://www.linkedin.com/in/nhatnc129/",
+        "photo": "./static/images/team/nguyen-cuong-nhat.jpg"
+    },
+    {
+        "name": "Nguyen Thi Hong Hanh",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://scholar.google.com/citations?user=iZ_RJvMAAAAJ&hl=en",
+        "photo": "./static/images/team/nguyen-thi-hong-hanh.jpg"
+    },
+    {
+        "name": "Ta Khanh Ly",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://scholar.google.com/citations?user=zRwMzNAAAAAJ&hl=en",
+        "photo": "./static/images/team/ta-khanh-ly.jpg"
+    },
+    {
+        "name": "Hoang H. Tran",
+        "group": "Researchers",
+        "titleAffiliation": "MSc Student @ VinUni",
+        "profileUrl": "https://scholar.google.com/citations?user=X0epzQYAAAAJ",
+        "photo": "./static/images/team/hoang-h-tran.jpg"
+    },
+    {
+        "name": "Minh-Loi Nguyen",
+        "group": "Researchers",
+        "titleAffiliation": "Research Resident",
+        "profileUrl": "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AN_4Zu9oS-8Hn4e_ViA9N1MBCH9F7oL966RPDLWyHhCXdo7KydzUGuNyB5Y0wgXp6U1sVvNaaJOd0zjG4Ds3viSjc_fQ&user=f_btpZwAAAAJ",
+        "photo": "./static/images/team/minh-loi-nguyen.jpg"
+    }
+]

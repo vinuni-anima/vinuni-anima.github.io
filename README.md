@@ -10,7 +10,7 @@ Run this command from the repository root and open http://127.0.0.1:8000/.
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Edit `index.html` to update the project overview, research directions, and publications. Edit `team.html` for team members and `opportunities.html` for openings. Edit `static/css/index.css` for site-specific styles. Bulma is bundled locally. There are no build steps.
+Edit `index.html` to update the project overview, research directions, and publications. Edit `data/team.json` for team profiles, save portraits under `static/images/team/`, and edit `team.html` for the page layout and `opportunities.html` for openings. Edit `static/css/index.css` for site-specific styles. Bulma is bundled locally. There are no build steps.
 
 ## Website license
 
